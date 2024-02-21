@@ -1,0 +1,322 @@
+nav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+
+}
+body {
+    background-color: rgb(237, 228, 68);
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    
+}
+h1#princ {
+    font-size: 14;
+    padding:-10px 0px 10px 10px;
+    margin: 10px 0px 0px 0px;
+    font-family: sans-serif
+   
+}
+h2#princ2 {
+    padding: left 20px;
+    font-size: 02;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif
+   
+}
+
+
+/* formatação do menu */
+header {
+    position: relative;
+}
+
+.container {
+    margin: -100px;
+    width: 940px;
+
+
+}
+/*ícones do menu*/
+#icone {
+    display: inline;
+    float: right;
+  max-width: 200px;
+}
+
+#icone2 {
+    display: inline;
+    float: right;
+    max-width: 150px;
+  
+}
+
+#icone3 {
+    display: inline;
+    float: right;
+    max-width: 150px;
+  
+}
+
+#icone4 {
+    display: inline;
+    float: right;
+    max-width: 150px;
+  
+}
+
+#icone5 {
+    display: inline;
+    float: right;
+    max-width: 150px;
+  
+}
+nav#menu-opcoes ul {
+font: size 15px;
+display: inline;
+float: left;
+clear: left;
+list-style: none;
+text-transform: uppercase;
+position: absolute;
+top: -190px;
+left: 305px;
+margin-top: -10px;
+
+
+}
+nav#menu-opcoes li {
+    display: inline-block;
+    background-color: #bd1616;
+    padding: 10px;
+    margin: 0 px;
+    transition: 1s;
+    margin-top: -300px;
+}
+nav#menu-opcoes li:hover {
+    background-color: #f9437f;
+    margin: auto;
+}
+ 
+
+ #logo {
+    display: inline-block;
+    margin-left: 0%;
+   max-height: 150px;
+   max-width: 200px;
+   height: auto;
+   width: auto;
+   
+    
+ }
+nav#menu-opcoes a {
+    color: #43d5f9;
+    text-decoration: none;
+}
+nav#menu-opcoes a :hover {
+    color: aliceblue;
+}
+
+div#interface {
+    width: 1000px;
+    background-color: white;
+    margin: 100px 30px 30px -40px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    padding: 30px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+/* outras páginas*/
+/* navegador*/
+.container {
+    margin: -100px;
+    width: 940px;
+}
+
+#icone {
+    display: inline;
+    float: right;
+    margin-top: -200px;
+   
+}
+nav.container ul {
+    font: size 15px;
+    display: inline;
+    float: left;
+    clear: left;
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -309px;
+    left: 305px;
+    margin-top: -10px;
+    
+    
+    }
+    nav li {
+        display: inline-block;
+        background-color: #bd1616;
+        padding: 10px;
+        margin: 0 px;
+        transition: 1s;
+        margin-top: -300px;
+    }
+    nav li:hover {
+        background-color: #f9437f;
+        margin: auto;
+    }
+
+    nav a {
+        color: #43d5f9;
+        text-decoration: none;
+    }
+    nav a :hover {
+        color: aliceblue;
+    }
+
+ /*outras páginas- seções*/
+section#cultura h2 {
+    color: #bd1616;
+    text-align: justify;
+    margin-top: -10px;
+
+}
+section#cultura p {
+color:#1b38a4;
+
+}
+
+section#gastronomia h2 {
+    color: #bd1616;
+    text-align: justify;
+    margin-top: -10px;
+
+}
+
+section#gastronomia li {
+    color: #1b38a4;
+
+}
+section#gastronomia p {
+color:#1b38a4;
+
+}
+
+section#fonetica h2 {
+    color: #bd1616;
+    text-align: justify;
+    margin-top: -10px;
+    
+
+}
+section#fonetica p {
+color:#1b38a4;
+
+}
+
+#table1 {
+    display: block;
+    float: left right;
+    color: #606060;
+    font-size: 20px;
+    margin-top: 10px;
+    border: -8px solid #4d4d4e;
+    margin: auto;
+}
+table#table1 td.cd {
+    background-color: white;
+}
+table#table1 td {
+    border: 1px solid #4d4d4e;
+    padding: 10px;
+
+}
+table#table1 td.cd1 {
+    background-color: white;
+    font-weight: bold;
+    color: #4d4d4e;
+    margin: auto;
+}
+table#table1 td.ce1 {
+    background-color: white;
+    font-weight: bold;
+    color: #4d4d4e;
+}
+table#table1 td.ce {
+    color: #43d5f9;
+    background-color: aliceblue;
+    vertical-align: top;
+    font-weight: bold;
+    margin: auto;
+}
+
+section#home article {
+    color: #f9437f;
+
+}
+section#home p {
+    color: #1b38a4;
+}
+
+.pratos {
+    color: #f9437f;
+
+}
+
+section#p {
+    color: #1b38a4;
+}
+
+section#home h2 {
+    color:#bd1616;
+    margin: -20px auto 0px auto;
+    top: 50px;
+}
+
+section#vocabulario h2 {
+    color: #bd1616;
+    text-align: justify;
+    margin-top: -10px;
+}
+
+section#vocabulario p {
+color:#1b38a4;
+
+}
+
+h2 {
+    color: #4d4d4e;
+}
+
+/* rodape */
+
+footer#rodape {
+    clear: both;
+    border-top: 1px solid #606060;
+
+}
+
+footer#rodape p {
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: -25px;
+}
+footer#rodape a {
+    color: #606060;
+    text-decoration:underline;
+    display: inline-block;
+    margin: -1000px 400px;
+}
+
+
+    
+
